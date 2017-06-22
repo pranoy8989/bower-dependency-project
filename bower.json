@@ -1,0 +1,26 @@
+{
+  "name": "dependency-proj-dummy",
+  "description": "Pranoy dummy dependency project",
+  "main": [
+    "js/main.js"
+  ],
+  "moduleType": [
+    "node"
+  ],
+  "keywords": [
+    "dummy",
+    "dependency"
+  ],
+  "authors": [
+    "Pranoy Dutta <pranoy.iem@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "private": true
+}
